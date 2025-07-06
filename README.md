@@ -1,6 +1,9 @@
 # Social-Network-Ads-Classification-Models
 This document provides an overview of a classifier comparison and decision boundary visualization using various machine learning classifiers. The classifiers are evaluated on the "Social_Network_Ads" dataset, aiming to predict whether a user purchased a product based on their age and estimated salary.
 
+# Project OutPuts
+Here you can see the photoes about project Open [https://drive.google.com/drive/folders/1B4BNTrfeM8Dj3ks9xfwWW6pcc3Afeq3n?usp=sharing).
+
 # Target Audience Prediction
 Introduction
 This document provides an overview of a classifier comparison and decision boundary visualization using various machine learning classifiers. The classifiers are evaluated on the "Social_Network_Ads" dataset, aiming to predict whether a user purchased a product based on their age and estimated salary.
